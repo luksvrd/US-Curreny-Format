@@ -12,6 +12,8 @@ This tutorial will guide you through the currency regex
 
 This regex is designed to match currency values in the format of "$X.XX" or "$X,XXX.XX", where X represents a digit.
 
+For further explanation, [Regex 101](https://regex101.com/r/uV1jN3/1) is a lovely site that allows you to break up the regex into its components and test it against various inputs.
+
 ## Table of Contents
 
 - [Anchors](#anchors)
