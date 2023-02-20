@@ -4,7 +4,7 @@ Regular expressions (regex) are patterns that help match and manipulate text. In
 
 ## Summary
 
-This tutorial will guide you through the currency regex
+This tutorial will guide you through the currency regex:
 
 ```
 ^\$?([0-9]{1,3},([0-9]{3},)*[0-9]{3}|[0-9]+)(\.[0-9][0-9])?$
@@ -78,13 +78,12 @@ Character escapes are used in regex to match special characters or characters th
 
 ## Author
 
->Welcome! I'm [Lukas Virden](https://github.com/luksvrd) & I've spent 4 years in the civil engineering industry where I've gained alot of real world (slap in the face) experience. Over the past 1.5 years as a site engineer, the soul crushing/stagnating routine of driving across the midwest, performing labor intensive responsibilities was what pushed me to research a path forward. 
+>>Welcome! I'm [Lukas Virden](https://github.com/luksvrd) & I've spent 4 years in the civil engineering industry where I've gained real world (slap in the face) experience. Over the past 1.5 years as a geotechnical site engineer, the soul crushing/stagnating routine of driving across the midwest & performing labor intensive responsibilities pushed me to research a path forward. 
 >
->I realized my interests and values aligned more so with companies in the technology space. As I considered ways to break in, I found the accessibility and variety of learning programming languages very attractive! 
+>I realized my interests and values aligned more with companies in the technology space. As I considered ways to break into the industry, I found the accessibility and variety of learning programming languages very attractive! 
 >
->From my previous role in civil site design, I knew that work felt the most meaningful to me when I was working on a project (i.e., using various technologies & compiling project specific components/files to deliver a product). 
+>From my previous role in civil site design, I knew that work felt the most meaningful to me when I was involved in a project (i.e., using various technologies & compiling project specific components/files to deliver a product). 
 >
 >After months of deliberation & exposure to free resources, I enrolled in the STL Washington University Full Stack Web Development Bootcamp. Upon completion (April 2023) I'll be seeking to transition to a career in software development. Proficient in React, Node.js, Express, MongoDB, Git, and Agile methodologies. 
 >
 >I'm truely energized to continue this lifelong journey of learning new technologies and collaborating with teammates to build innovative technological solutions!
-
